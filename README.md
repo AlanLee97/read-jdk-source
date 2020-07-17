@@ -50,10 +50,10 @@ JDK的项目历经了十几个大版本，算上开源社区的贡献，经手�
 | 包                          | 类                         | 进度 |
 | --------------------------- | -------------------------- | ---- |
 | java.lang                   | Object                     | :o:  |
-|                             | String                     |      |
-|                             | AbstractStringBuilder      |      |
-|                             | StringBuffer               |      |
-|                             | StringBuilder              |      |
+|                             | String                     | :o:  |
+|                             | AbstractStringBuilder      | :o:  |
+|                             | StringBuffer               | :o:  |
+|                             | StringBuilder              | :o:  |
 |                             | Boolean                    |      |
 |                             | Byte                       |      |
 |                             | Double                     |      |
