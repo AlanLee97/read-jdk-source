@@ -54,14 +54,14 @@ JDK的项目历经了十几个大版本，算上开源社区的贡献，经手�
 |                             | AbstractStringBuilder      | :o:  |
 |                             | StringBuffer               | :o:  |
 |                             | StringBuilder              | :o:  |
-|                             | Boolean                    |      |
-|                             | Byte                       |      |
-|                             | Double                     |      |
-|                             | Float                      |      |
-|                             | Integer                    |      |
-|                             | Long                       |      |
-|                             | Short                      |      |
-|                             | Thread                     |      |
+|                             | Boolean                    | :o:  |
+|                             | Byte                       | :o:  |
+|                             | Double                     | :o:  |
+|                             | Float                      | :o:  |
+|                             | Integer                    | :o:  |
+|                             | Long                       | :o:  |
+|                             | Short                      | :o:  |
+|                             | Thread                     | :o:  |
 |                             | ThreadLocal                |      |
 |                             | Enum                       |      |
 |                             | Throwable                  |      |
